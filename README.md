@@ -49,7 +49,7 @@ Throughout my career, I have utilized several tools to manage and oversee test c
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:youneszaroualpro@gmail.com)
+- **Email:** [youneszaroualpro@gmail.com](mailto:youneszaroualpro@gmail.com)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - **GitHub:** [@YounesFl](https://github.com/YounesFl)
 
